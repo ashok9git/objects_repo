@@ -1,1 +1,2 @@
 this is first class of git
+this line is from new branch
